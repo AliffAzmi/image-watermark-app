@@ -3,19 +3,21 @@ Simple Node.JS, ImageMagick app to add watermark in image.
 
 **Installation**
 
-1. Install depend.
+1. Install dependencies.
 ```
 npm install 
 ```
 
-2. Requires imagemagick CLI tools to be installed. See (https://imagemagick.org/script/download.php).
+2. Requires imagemagick CLI tools to be installed. See https://imagemagick.org/script/download.php to download for your OS.
 
 3. Run
 ```
 npm run dev 
 ```
 
-4. Visit `http://localhost:4002`
+4. Install Postman to interact with REST API.
+*   URL: `http://localhost:4002`
+*   Method: POST
 
 **Screenshot**
 
