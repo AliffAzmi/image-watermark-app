@@ -21,6 +21,6 @@ npm run dev
 
 **Screenshot**
 
-5. You will the output in the project file.
+5. You will see the output in the project file.
 
 ![Result](https://user-images.githubusercontent.com/46412369/113126693-7dc17e00-924a-11eb-9c10-cce6627bb653.png)
