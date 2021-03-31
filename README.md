@@ -15,7 +15,7 @@ npm install
 npm run dev 
 ```
 
-4. Install Postman to interact with REST API.
+4. Install Postman to interact with it.
 *   URL: `http://localhost:4002`
 *   Method: POST
 
